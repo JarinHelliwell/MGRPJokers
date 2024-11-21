@@ -1,21 +1,20 @@
 ---
 layout: layout.njk
-pageClass: kingdom
 ---
 <!--TeamBox-->
 <div class="TeamBox">
-     <p><a href="#Snow"><img src="../images/SnowIcon.png" alt="Portrait of Princess Tempest"></a></p>
-     <p><a href="#Proud"><img src="../images/ProudIcon.png" alt="Portrait of Princess Deluge"></a></p>
-     <p><a href="#Umbrain"><img src="../images/UmbrainIcon.png" alt="Portrait of Princess Inferno"></a></p>
+     <p><a href="../kingdom#Snow"><img src="../images/SnowIcon.png" alt="Portrait of Princess Tempest"></a></p>
+     <p><a href="../kingdom#Proud"><img src="../images/ProudIcon.png" alt="Portrait of Princess Deluge"></a></p>
+     <p><a href="../kingdom#Umbrain"><img src="../images/UmbrainIcon.png" alt="Portrait of Princess Inferno"></a></p>
 </div>
 <div class="TeamBox">
-     <p><a href="#Grim"><img src="../images/GrimHeartIcon.png" alt="Portrait of Princess Quake"></a></p>
-     <p><a href="#Shufflin"><img src="../images/ShufflinIcon.png" alt="Portrait of Shufflin"></a></p>
+     <p><a href="../kingdom#Grim"><img src="../images/GrimHeartIcon.png" alt="Portrait of Princess Quake"></a></p>
+     <p><a href="../kingdom#Shufflin"><img src="../images/ShufflinIcon.png" alt="Portrait of Shufflin"></a></p>
 </div>
 
 <!--Hero-->
      <div class="Summary">
-          <h1 class="PrincessColour">Magical Kingdom Employees</h1>
+          <h1 class="Title">Magical Kingdom Employees</h1>
           <div>
                <p>Employees of various departments within the Magical Kingdom. They were hired to find the Pure Elements, although each of them was told to keep their mission a secret from the others, causing them to quickly come into conflict.</p>
           </div>

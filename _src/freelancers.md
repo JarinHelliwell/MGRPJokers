@@ -1,22 +1,21 @@
 ---
 layout: layout.njk
-pageClass: freelancers
 ---
 <!--TeamBox-->
 <div class="TeamBox">
-     <p><a href="#Marika"><img src="../images/MarikaIcon.png" alt="Portrait of Marika Fukuroi"></a></p>
-     <p><a href="#Mimi"><img src="../images/MimiIcon.png" alt="Portrait of Styler Mimi"></a></p>
-     <p><a href="#Filru"><img src="../images/FilruIcon.png" alt="Portrait of Filru"></a></p>
+     <p><a href="../freelancers#Marika"><img src="../images/MarikaIcon.png" alt="Portrait of Marika Fukuroi"></a></p>
+     <p><a href="../freelancers#Mimi"><img src="../images/MimiIcon.png" alt="Portrait of Styler Mimi"></a></p>
+     <p><a href="../freelancers#Filru"><img src="../images/FilruIcon.png" alt="Portrait of Filru"></a></p>
 </div>
 <div class="TeamBox">
-     <p><a href="#Uttakatta"><img src="../images/UttakattaIcon.png" alt="Portrait of Uttakatta"></a></p>
-     <p><a href="#Kafuria"><img src="../images/KafuriaIcon.png" alt="Portrait of Kafuria"></a></p>
-     <p><a href="#Stanczyka"><img src="../images/StanczykaIcon.png" alt="Portrait of Stanczyka"></a></p>
+     <p><a href="../freelancers#Uttakatta"><img src="../images/UttakattaIcon.png" alt="Portrait of Uttakatta"></a></p>
+     <p><a href="../freelancers#Kafuria"><img src="../images/KafuriaIcon.png" alt="Portrait of Kafuria"></a></p>
+     <p><a href="../freelancers#Stanczyka"><img src="../images/StanczykaIcon.png" alt="Portrait of Stanczyka"></a></p>
 </div>
 
 <!--Hero-->
      <div class="Summary">
-          <h1>Freelancers & Others</h1>
+          <h1 class="Title">Freelancers & Others</h1>
           <div>
                <p>Various freelance Magical Girls hired to learn more about the Pure Elements, as well as others who have different interests in the group.</p>
           </div>
@@ -33,7 +32,7 @@ pageClass: freelancers
                     <li>Magic: Can make various magic flowers bloom from her head.</li>
                </ul>
                <p>A plant-themed Magical Girl, Marika Fukuroi is a cheerful, irreverent Magical Girl who lives for battle, being so violent that she was actually kicked out of the Archfiend Cram School for being too aggressive. Though she greatly admires those stronger than her, she does not disrespect those who are weaker than her, and she is willing to use her power to aid others in any way she can. She is also far smarter than she comes across, being a high school science teacher in her civilian life.</p>
-               <p>Marika’s magic allows her to grow flowers from her head that have different effects, depending on the type of flower. For example, she can create a sunflower that fires solar-powered lasers, or a cosmos with bladed petals. High versatile and dangerous, she is minorly held back by the fact that her flowers take time to grow, so she can’t swap powers on the fly, and she needs sunlight to make most plants grow.</p>
+               <p>Marika’s magic allows her to grow flowers from her head that have different effects, depending on the type of flower. For example, she can create a sunflower that fires solar-powered lasers, or a cosmos with bladed petals. Highly versatile and dangerous, she is minorly held back by the fact that her flowers take time to grow, so she can’t swap powers on the fly, and she needs sunlight to make most plants grow.</p>
                <div class="Spoiler">
                     <div class="Spoiler-top Marika">
                          <h3>Fate</h3>
@@ -45,7 +44,7 @@ pageClass: freelancers
           </div>
      </div>
 <!--Styler Mimi-->
-     <div id="Deluge" class="Character FadeIn">
+     <div id="Mimi" class="Character FadeIn">
           <div class="Portrait">
                <img src="../images/Mimi.png" alt="Styler Mimi, a fashionista Magical Girl with a variety of makeup tools.">
           </div>
@@ -67,7 +66,7 @@ pageClass: freelancers
           </div>
      </div>
 <!--Filru-->
-     <div id="Inferno" class="Character FadeIn">
+     <div id="Filru" class="Character FadeIn">
           <div class="Portrait">
                <img src="../images/Filru.png" alt="Filru, a Magical Girl in a crocheted outfit with her purple hair in braids.">
           </div>
@@ -90,7 +89,7 @@ pageClass: freelancers
      </div>
 
 <!--Uttakatta-->
-     <div id="Quake" class="Character FadeIn">
+     <div id="Uttakatta" class="Character FadeIn">
           <div class="Portrait">
                <img src="../images/Uttakatta.png" alt="Uttakatta, a Magical Girl with a cheeky expression, carrying a horn for blowing bubbles.">
                </div>
@@ -112,7 +111,7 @@ pageClass: freelancers
           </div>
      </div>
 <!--Kafuria-->
-     <div id="Cherry" class="Character FadeIn">
+     <div id="Kafuria" class="Character FadeIn">
           <div class="Portrait">
                <img src="../images/Kafuria.png" alt="Kafuria, a Magical Girl in mourning clothes with a veil covering her face and large crow wings on her back.">
                </div>

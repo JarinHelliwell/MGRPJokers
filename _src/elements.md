@@ -1,23 +1,22 @@
 ---
 layout: layout.njk
-pageClass: pureElements
 ---
 <!--TeamBox-->
 <div class="TeamBox">
-     <p><a href="#Tempest"><img src="../images/TempestIcon.png" alt="Portrait of Princess Tempest"></a></p>
-     <p><a href="#Deluge"><img src="../images/DelugeIcon.png" alt="Portrait of Princess Deluge"></a></p>
-     <p><a href="#Inferno"><img src="../images/InfernoIcon.png" alt="Portrait of Princess Inferno"></a></p>
+     <p><a href="../elements#Tempest"><img src="../images/TempestIcon.png" alt="Portrait of Princess Tempest"></a></p>
+     <p><a href="../elements#Deluge"><img src="../images/DelugeIcon.png" alt="Portrait of Princess Deluge"></a></p>
+     <p><a href="../elements#Inferno"><img src="../images/InfernoIcon.png" alt="Portrait of Princess Inferno"></a></p>
 </div>
 <div class="TeamBox">
-     <p><a href="#Quake"><img src="../images/QuakeIcon.png" alt="Portrait of Princess Quake"></a></p>
-     <p><a href="#Cherry"><img src="../images/CherryIcon.png" alt="Portrait of Prism Cherry"></a></p>
+     <p><a href="../elements#Quake"><img src="../images/QuakeIcon.png" alt="Portrait of Princess Quake"></a></p>
+     <p><a href="../elements#Cherry"><img src="../images/CherryIcon.png" alt="Portrait of Prism Cherry"></a></p>
 </div>
 
 <!--Hero-->
      <div class="Summary">
-          <h1 class="PrincessColour">Pure Elements</h1>
+          <h1 class="Title">Pure Elements</h1>
           <div>
-               <p>A team of elemental-themed Magical Girls, the Pure Elements serve as the protectors of S-City, fighting shapeshifting monsters called Disruptors who attack every night. They are overseen by a woman named Ms. Tanaka who has provided them with a training facility/base of operations/secret clubhouse.</p>
+               <p>A team of elemental-themed Magical Girls, the Pure Elements serve as the protectors of S-City, fighting shapeshifting monsters called Disruptors that attack every night. They are overseen by a woman named Ms. Tanaka who has provided them with a training facility/base of operations/secret clubhouse.</p>
                <p>Each of the Pure Elements controls a different classical element, and all of them are capable of using a technique called Luxury Mode to access a temporary boost in power. When two or more of the Pure Elements are present, they can perform a powerful combination attack called Ultimate Princess Explosion.</p>
                <p>Prism Cherry, another Magical Girl, gets invited into the team as an honorary member after she befriends Princess Deluge.</p>
           </div>
@@ -26,7 +25,7 @@ pageClass: pureElements
                     <h3>Secret Files</h3>
                </div>
                <div class="Spoiler-body">
-                    <p>The Pure Elements are artificial Magical Girls created as part of an experiment to empower people who don't have the normal magical qualifications to become Magical Girls. They require regular intake of a special medicine in order to assume their Magical Girl forms and their is a time limit to using their powers, weaknesses that are not present in regular Magical Girls. The Disruptors are merely training homunculi that pose no actual threat.</p>
+                    <p>The Pure Elements are artificial Magical Girls created as part of an experiment to empower people who don't have the normal magical qualifications to become Magical Girls. They require regular intake of a special medicine in order to assume their Magical Girl forms and there is a time limit to using their powers, weaknesses that are not present in regular Magical Girls. The Disruptors are merely training homunculi that pose no actual threat.</p>
                     <p>The "Princess Project" was created by Pfle, now head of the Magical Kingdom's Research & Development Department, as part of her plan to reshape the Magical Kingdom to her own desires. Ms. Tanaka is the original Lapis Lazuline, now known as Old Blue, who helped manipulate Pfle into creating the project for her own ends.</p>
                     <p>When word gets out about the artificial Magical Girls, various factions within the Magical Kingdom send agents or freelancers after the Pure Elements in order to capture or kill them. The Osk Faction, who has been experimenting with their own artificial Magical Girls, the Shufflin, in particular aim to destroy the Pure Elements while testing Shufflin's capabilities.</p>
                </div>
@@ -43,7 +42,7 @@ pageClass: pureElements
                     <li>Real Name: Mei Higashionna</li>
                     <li>Magic: Fights enemies using the power of wind.</li>
                </ul>
-               <p>An elementary schooler with a lively and childish personality. Very cheeky, Princess Tempest likes arguing with Princess Inferno, but generally gets along very well with the others. Given her young age, she enjoys transforming into her older-looking Magical Girl form to ge the attention of her middle school-aged crush.</p>
+               <p>An elementary schooler with a lively and childish personality. Very cheeky, Princess Tempest likes arguing with Princess Inferno, but generally gets along very well with the others. Given her young age, she enjoys transforming into her older-looking Magical Girl form to get the attention of her middle school-aged crush.</p>
                <p>Princess Tempest's magic allows her to control wind, which she uses to fly and move around at high speeds. Her weapon in a boomerang that creates a vaccuum as it flies through the air, using the vaccuum to slice through anything.</p>
                <div class="Spoiler">
                     <div class="Spoiler-top Tempest">
@@ -61,7 +60,7 @@ pageClass: pureElements
                <img src="../images/Deluge.png" alt="Princess Deluge, a Magical Girl wearing a tiara with a blue gem, wearing a sea-inspired swimsuit and weilding a trident.">
           </div>
           <div class="Bio">
-               <h2">Princess Deluge</h2>
+               <h2>Princess Deluge</h2>
                <ul>
                     <li>Real Name: Nami Aoki</li>
                     <li>Magic: Fights enemies using the power of water.</li>

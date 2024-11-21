@@ -31,10 +31,16 @@ body {
      padding: 1.5em;
      transition: transform 300ms ease-in-out;
 }
-/* Team Styles */
-.PrincessColour {
+/* Title Styles */
+.Title {
      display:flex;
      justify-content: center;
+}
+.TitleLink {
+     color: var.$color__link;
+}
+.TitleLink:hover {
+     color: var.$color__link-hover;
 }
 .Secret {
      color: var.$color__link;
