@@ -1,0 +1,32 @@
+@use "variables" as var;
+
+body {
+     font-family: var.$font__body;
+     color: var.$color__white;
+}
+.Intro {
+     font-size: 1.5em;
+}
+.Summary {
+     font-size: 1.4rem;
+}
+.PrincessColour {
+     font-family: var.$font__heading;
+     font-size: 2.2em;
+}
+.Character h2 {
+     font-family: var.$font__heading;
+     font-size: 2.2em;
+}
+.Bio {
+     font-size: 1.2em;
+}
+.Spoiler-top {
+     font-size: 1.3em;
+}
+.Spoiler-top h3::after{
+     font-size: 1.3em;
+}
+.Links p {
+     font-size: 1.3em;
+}

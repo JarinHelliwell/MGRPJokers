@@ -1,0 +1,36 @@
+@use "variables" as var;
+
+.Links {
+     display: flex;
+     justify-content: center;
+}
+.Links a {
+     color: var.$color__link;
+}
+.Links a:hover {
+     color: var.$color__link-hover;
+}
+.Links a.active {
+     color: var.$color__link-hover;
+}
+.button-spot {
+     display:flex;
+     justify-content: center;
+     margin: 2em;
+     padding-bottom: 2em;
+}
+.button {
+     padding: 1em;
+     background-color: var.$color__link;
+     color: #000000;
+     font-family:'Poppins', sans-serif;
+     text-decoration: none;
+     border-radius: 3px;
+     display: inline-block;    
+}
+.button:hover {
+     background-color: var.$color__link-hover;
+}
+.button:active {
+     transform: translateY(2px);
+}

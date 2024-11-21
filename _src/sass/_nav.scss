@@ -1,0 +1,52 @@
+@use "variables" as var;
+
+header {
+     font-family: 'Poppins', sans-serif;
+     padding: 2vw 10vw;
+}
+.SeriesLogo {
+    width:25em;
+}
+nav {
+     display: flex;
+     justify-content: space-between;
+     align-items: center;
+}
+.menu, .sub-menu {
+     list-style: none;
+     padding: 0;
+     margin: 0;
+}
+.menu {
+     display: flex;
+}
+.menu a {
+     color: var.$color__link;
+     text-decoration:none;
+     font-weight: 600;
+     padding: 1.4rem;
+     display: inline-block;
+}
+.menu a:hover {
+     color: var.$color__link-hover;
+     background-color:#080400;
+}
+.sub-menu {
+     display:none;
+     background-color:#000000;
+}
+.menu-parent {
+     position:relative;
+}
+.menu-parent:hover .sub-menu {
+     display: block;
+     position:absolute;
+     left:0;
+     top: 100%;
+}
+/* Menu Toggle */
+.menu-toggle {
+     display: none;
+     font-size: 4rem;
+     color: var.$color__link;
+}
